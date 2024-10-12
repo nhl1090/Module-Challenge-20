@@ -47,67 +47,41 @@ This project is licensed under the [MIT license](https://opensource.org/license/
 - [nikgraf](https://github.com/nikgraf)
     - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
     - [react-hooks](https://github.com/nikgraf/react-hooks)
+- [npmjs.com](https://www.npmjs.com/)
+    - [create-vite](https://www.npmjs.com/package/create-vite)
 - [Peter Lin](https://medium.com/@peterlin5301997)
     - [Types of React Components](https://levelup.gitconnected.com/types-of-react-components-a38ce18e35ab)
+- [React](https://react.dev/)
+    - [Learn React](https://react.dev/learn)
+    - [Rendering Lists](https://react.dev/learn/rendering-lists)
+    - [](https://react.dev/learn/conditional-rendering)
+    - [](https://react.dev/reference/react#effect-hooks)
+    - [](https://react.dev/reference/react#state-hooks)
+    - [](https://react.dev/reference/react)
+    - [](https://react.dev/learn/reacting-to-input-with-state)
+    - [](https://react.dev/learn/responding-to-events)
+    - [](https://react.dev/learn/passing-props-to-a-component)
+    - [](https://react.dev/learn/your-first-component)
+    - [](https://react.dev/learn/writing-markup-with-jsx)
+    - [](https://react.dev/learn/describing-the-ui)
+    - [](https://react.dev/learn/managing-state)
 - [React Conf](https://www.youtube.com/@reactconf8476)
     - [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [React JS - React Enlightenment](https://www.reactenlightenment.com/)
+- [React Router](https://reactrouter.com/en/main)
+    - [Tutorial](https://reactrouter.com/en/main/start/tutorial)
 - [ui.dev](https://ui.dev/)
     - [uidotdev](https://www.youtube.com/@uidotdev)
     - [Why React Hooks?](https://www.youtube.com/watch?v=eX_L39UvZes)
+- [Vite](https://vite.dev/)
+    - [](https://vite.dev/guide/)
+    - [](https://vite.dev/guide/features.html#css)
+    - [](https://vite.dev/guide/static-deploy.html#netlify-with-git)
+    - [](https://vite.dev/guide/static-deploy.html#deploying-a-static-site)
+    - [](https://vite.dev/guide/static-deploy.html#netlify-with-git)
+- [Vitest](https://vitest.dev/)
+    - [Getting Started](https://vitest.dev/guide/)
 
-
-
-
-
-
-<!-->
-https://vitest.dev/guide/
-https://reactrouter.com/en/main/start/tutorial
-https://www.npmjs.com/package/create-vite
-https://vite.dev/guide/static-deploy.html#netlify-with-git
-https://vite.dev/guide/static-deploy.html#deploying-a-static-site
-https://vite.dev/guide/
-https://vite.dev/guide/
-https://vite.dev/
-https://vite.dev/guide/static-deploy.html#netlify-with-git
-https://vite.dev/guide/features.html#css
-https://vite.dev/guide/
-https://react.dev/learn
-https://react.dev/
-https://react.dev/learn/rendering-lists
-https://react.dev/learn/conditional-rendering
-https://react.dev/reference/react#effect-hooks
-https://react.dev/reference/react#state-hooks
-https://react.dev/reference/react
-https://react.dev/learn/reacting-to-input-with-state
-https://react.dev/learn/responding-to-events
-https://react.dev/learn/managing-state
-https://react.dev/learn/passing-props-to-a-component
-https://react.dev/learn/your-first-component
-https://react.dev/learn/writing-markup-with-jsx
-https://react.dev/learn/describing-the-ui
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
--->
 
 ## Tests
 N/A
