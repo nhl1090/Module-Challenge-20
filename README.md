@@ -37,11 +37,13 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - [How To Create a Custom Components in React](https://www.digitalocean.com/community/tutorials/how-to-create-custom-components-in-react)
     - [Understanding State and Props in ReactJS](https://www.agiliq.com/blog/2018/05/understanding-react-state-and-props/)
 - [build with react](https://buildwithreact.com/)
+- [coolors](https://coolors.co/)
 - [DigitalOcean](https://www.digitalocean.com/)
     - [Welcome to the Digital Ocean Community!](https://www.digitalocean.com/community)
 - [freeCode Camp](https://www.freecodecamp.org/)
     - [What the heck is jSX and why you shiould use it to build your React apps](https://www.freecodecamp.org/news/what-the-heck-is-jsx-and-why-you-should-use-it-to-build-your-react-apps-1195cbd9dbc6/)
 - [JSX](https://facebook.github.io/jsx/)
+- [netlify](https://www.netlify.com/)
 - [nikgraf](https://github.com/nikgraf)
     - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
     - [react-hooks](https://github.com/nikgraf/react-hooks)
@@ -54,9 +56,37 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - [uidotdev](https://www.youtube.com/@uidotdev)
     - [Why React Hooks?](https://www.youtube.com/watch?v=eX_L39UvZes)
 
+
+
+
+
+
 <!-->
-- []()
-- []()
+https://vitest.dev/guide/
+https://reactrouter.com/en/main/start/tutorial
+https://www.npmjs.com/package/create-vite
+https://vite.dev/guide/static-deploy.html#netlify-with-git
+https://vite.dev/guide/static-deploy.html#deploying-a-static-site
+https://vite.dev/guide/
+https://vite.dev/guide/
+https://vite.dev/
+https://vite.dev/guide/static-deploy.html#netlify-with-git
+https://vite.dev/guide/features.html#css
+https://vite.dev/guide/
+https://react.dev/learn
+https://react.dev/
+https://react.dev/learn/rendering-lists
+https://react.dev/learn/conditional-rendering
+https://react.dev/reference/react#effect-hooks
+https://react.dev/reference/react#state-hooks
+https://react.dev/reference/react
+https://react.dev/learn/reacting-to-input-with-state
+https://react.dev/learn/responding-to-events
+https://react.dev/learn/managing-state
+https://react.dev/learn/passing-props-to-a-component
+https://react.dev/learn/your-first-component
+https://react.dev/learn/writing-markup-with-jsx
+https://react.dev/learn/describing-the-ui
 - []()
 - []()
 - []()
